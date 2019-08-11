@@ -18,7 +18,8 @@ Tools Used
 	5.Rest Assured
 Settings
 
-	Depending on your infrastructure you may need to add settings.xml file to your local .m2 directory in order for you to be               able to download maven dependencies and build your extension.
+	Depending on your infrastructure you may need to add settings.xml file to your local .m2 directory 
+	in order for you to be able to download maven dependencies and build your extension.
 	
 Environment Setup
 
