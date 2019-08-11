@@ -45,101 +45,101 @@ Environment Setup
 	   
 Repositories
 
-  <!-- https://mvnrepository.com/artifact/org.testng/testng -->
-  <dependency>
-    <groupId>org.testng</groupId>
-    <artifactId>testng</artifactId>
-    <version>7.0.0-beta7</version>
-    <scope>test</scope>
-  </dependency>
+	  <!-- https://mvnrepository.com/artifact/org.testng/testng -->
+	  <dependency>
+	    <groupId>org.testng</groupId>
+	    <artifactId>testng</artifactId>
+	    <version>7.0.0-beta7</version>
+	    <scope>test</scope>
+	  </dependency>
 
-  <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-core -->
-  <dependency>
-    <groupId>info.cukes</groupId>
-    <artifactId>cucumber-core</artifactId>
-    <version>1.2.5</version>
-  </dependency>
+	  <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-core -->
+	  <dependency>
+	    <groupId>info.cukes</groupId>
+	    <artifactId>cucumber-core</artifactId>
+	    <version>1.2.5</version>
+	  </dependency>
 
-  <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-java -->
-  <dependency>
-    <groupId>info.cukes</groupId>
-    <artifactId>cucumber-java</artifactId>
-    <version>1.2.5</version>
-  </dependency>
+	  <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-java -->
+	  <dependency>
+	    <groupId>info.cukes</groupId>
+	    <artifactId>cucumber-java</artifactId>
+	    <version>1.2.5</version>
+	  </dependency>
 
-  <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-java -->
-  <dependency>
-    <groupId>info.cukes</groupId>
-    <artifactId>cucumber-java</artifactId>
-    <version>1.2.5</version>
-  </dependency>
+	  <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-java -->
+	  <dependency>
+	    <groupId>info.cukes</groupId>
+	    <artifactId>cucumber-java</artifactId>
+	    <version>1.2.5</version>
+	  </dependency>
 
-  <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-jvm -->
-  <dependency>
-    <groupId>info.cukes</groupId>
-    <artifactId>cucumber-jvm</artifactId>
-    <version>1.2.5</version>
-    <type>pom</type>
-  </dependency>
+	  <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-jvm -->
+	  <dependency>
+	    <groupId>info.cukes</groupId>
+	    <artifactId>cucumber-jvm</artifactId>
+	    <version>1.2.5</version>
+	    <type>pom</type>
+	  </dependency>
 
-  <dependency>
-    <groupId>info.cukes</groupId>
-    <artifactId>cucumber-jvm-deps</artifactId>
-    <version>1.0.5</version>
-  </dependency>
+	  <dependency>
+	    <groupId>info.cukes</groupId>
+	    <artifactId>cucumber-jvm-deps</artifactId>
+	    <version>1.0.5</version>
+	  </dependency>
 
-  <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-testng -->
-  <dependency>
-    <groupId>info.cukes</groupId>
-    <artifactId>cucumber-testng</artifactId>
-    <version>1.2.5</version>
-  </dependency>
+	  <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-testng -->
+	  <dependency>
+	    <groupId>info.cukes</groupId>
+	    <artifactId>cucumber-testng</artifactId>
+	    <version>1.2.5</version>
+	  </dependency>
 
-  <!-- https://mvnrepository.com/artifact/info.cukes/gherkin -->
-  <dependency>
-    <groupId>info.cukes</groupId>
-    <artifactId>gherkin</artifactId>
-    <version>2.12.2</version>
-    <scope>provided</scope>
-  </dependency>
-
-
-  <!-- Reports -->
-  <dependency>
-    <groupId>com.aventstack</groupId>
-    <artifactId>extentreports</artifactId>
-    <version>3.1.1</version>
-  </dependency>
-
-  <dependency>
-    <groupId>com.vimalselvam</groupId>
-    <artifactId>cucumber-extentsreport</artifactId>
-    <version>3.1.1</version>
-  </dependency>
+	  <!-- https://mvnrepository.com/artifact/info.cukes/gherkin -->
+	  <dependency>
+	    <groupId>info.cukes</groupId>
+	    <artifactId>gherkin</artifactId>
+	    <version>2.12.2</version>
+	    <scope>provided</scope>
+	  </dependency>
 
 
-  <dependency>
-    <groupId>info.cukes</groupId>
-    <artifactId>cucumber-picocontainer</artifactId>
-    <version>1.2.5</version>
-  </dependency>
+	  <!-- Reports -->
+	  <dependency>
+	    <groupId>com.aventstack</groupId>
+	    <artifactId>extentreports</artifactId>
+	    <version>3.1.1</version>
+	  </dependency>
 
-  <!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
-  <dependency>
-    <groupId>io.rest-assured</groupId>
-    <artifactId>rest-assured</artifactId>
-    <version>3.0.0</version>
-    <scope>test</scope>
-  </dependency>
+	  <dependency>
+	    <groupId>com.vimalselvam</groupId>
+	    <artifactId>cucumber-extentsreport</artifactId>
+	    <version>3.1.1</version>
+	  </dependency>
 
-  <!-- https://mvnrepository.com/artifact/org.json/json -->
-  <dependency>
-    <groupId>org.json</groupId>
-    <artifactId>json</artifactId>
-    <version>20180813</version>
-  </dependency>
 
-</dependencies>
+	  <dependency>
+	    <groupId>info.cukes</groupId>
+	    <artifactId>cucumber-picocontainer</artifactId>
+	    <version>1.2.5</version>
+	  </dependency>
+
+	  <!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
+	  <dependency>
+	    <groupId>io.rest-assured</groupId>
+	    <artifactId>rest-assured</artifactId>
+	    <version>3.0.0</version>
+	    <scope>test</scope>
+	  </dependency>
+
+	  <!-- https://mvnrepository.com/artifact/org.json/json -->
+	  <dependency>
+	    <groupId>org.json</groupId>
+	    <artifactId>json</artifactId>
+	    <version>20180813</version>
+	  </dependency>
+
+	</dependencies>
 
 Design
 
@@ -319,11 +319,13 @@ Design
 		 }
 
     Reporting
-	  Reports for each module are written into their respective /target/cucumber-reports directories after a successful run.
+	  Reports for each module are written into their respective /target/cucumber-reports directories \
+	  after a successful run.
 	  
 Main Feature
 
-	 1.Cucumber framework to test automation Webservices.Due to simple test script architecture, Cucumber provides code            reusability.
+	 1.Cucumber framework to test automation Webservices.Due to simple test script architecture,
+	 Cucumber provides code reusability.
 
 	 2.All classes and methods are implemented in Java with Maven repository to include all dependencies needed. 
 	 REST-Assured is used to offer a friendly DSL (Domain specific Languages) that describes a connection to an 
