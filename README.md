@@ -1,7 +1,7 @@
 
 Overview
 
-	Rest Assured is a REST API Java test automation framework.
+	Cucumber framework is a test automation framework which supports BDD approach.
 	The goal of the framework is to speed development of tests and validation of APIs by 
 	abstracting repetitive code and standardizing calls for easier functional and end-to-end testing
 	across micro-services
