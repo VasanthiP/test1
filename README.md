@@ -319,8 +319,8 @@ Design
 		 }
 
     Reporting
-	  Reports for each module are written into their respective /target/cucumber-reports directories \
-	  after a successful run.
+	  Reports for each module are written into their respective
+	  /target/cucumber-reports directories\ after a successful run.
 	  
 Main Feature
 
@@ -343,6 +343,8 @@ Main Feature
 	4.REST-Assured Java API is to test REST webservices and has no direct support for SOAP webservices.
 	  However, REST-Assured can test SOAP webservices by adding xml request in the body and execute POST HTTP request.
 
-	5.Solves the complexity of testing correlated APIs as any test step can use data (body value, header or cookie) received                   in the previous steps.
+	5.Solves the complexity of testing correlated APIs as any test step can use data (body value, header or cookie) 
+	  received in the previous steps.
 
-	6.It allows the tes
+	6.It allows the test script to be written without knowledge of any code, it allows the involvement 
+	of non-programmers as  well.
