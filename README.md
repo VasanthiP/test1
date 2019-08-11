@@ -1,19 +1,19 @@
 
 Overview
 
-Rest Assured is a REST API Java test automation framework.
-The goal of the framework is to speed development of tests and validation of APIs by 
-abstracting repetitive code and standardizing calls for easier functional and end-to-end testing
-across micro-services
+	Rest Assured is a REST API Java test automation framework.
+	The goal of the framework is to speed development of tests and validation of APIs by 
+	abstracting repetitive code and standardizing calls for easier functional and end-to-end testing
+	across micro-services
 Tools Used
 
-1.Maven
+	1.Maven
 
-2.Cucumber
+	2.Cucumber
 
-3.TestNG 
+	3.TestNG 
 
-4.Eclipse
+	4.Eclipse
 
 5.Rest Assured
 Settings
